@@ -1,4 +1,4 @@
-## List Collection
+## Quote Collection
 A simple web app that stores information in MongoDB. This project is for learning purposes.
 
 ### How to use
